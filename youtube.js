@@ -1,6 +1,4 @@
 // TODO
-//// - Guardar enviats
-//// - vore qui s'ha desuscrit
 //// 
 
 var mensaje = 'Gracias por seguirnos NOMBRE!\nEspero que los tutoriales te ayuden a sacar todavía mejor música\nY para cualquier cosa ya sabes\n\nun abrazo';
